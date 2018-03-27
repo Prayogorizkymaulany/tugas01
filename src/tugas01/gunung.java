@@ -18,7 +18,7 @@ public class gunung {
     String jumlahpendaki;
     
     
-    void infoMhs(){
+    void infogunung(){
         System.out.println("Nama                             : "+nama);
         System.out.println("Ketinggian                       : "+ketinggian);
         System.out.println("Jumlah Pos                       : "+jumlahpos);

@@ -18,7 +18,7 @@ public class gunungaksi {
         semeru.suhu="14 Celsius";
         semeru.hrgtiketmasuk="17.500";
         semeru.jumlahpendaki="1000 Orang";
-               
-
+        
+        semeru.infogunung();
     }
 }
