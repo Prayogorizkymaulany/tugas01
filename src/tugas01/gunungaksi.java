@@ -11,6 +11,6 @@ package tugas01;
  */
 public class gunungaksi {
     public static void main(String[] args) {
-        
+        gunung semeru = new gunung();
     }
 }
