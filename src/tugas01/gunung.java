@@ -10,5 +10,20 @@ package tugas01;
  * @author Yoga
  */
 public class gunung {
+    String nama;
+    String ketinggian;
+    String jumlahpos;
+    String suhu;
+    String hrgtiketmasuk;
+    String jumlahpendaki;
     
+    
+    void infoMhs(){
+        System.out.println("Nama                             : "+nama);
+        System.out.println("Ketinggian                       : "+ketinggian);
+        System.out.println("Jumlah Pos                       : "+jumlahpos);
+        System.out.println("Suhu                             : "+suhu);
+        System.out.println("Harga Tiket Masuk                : "+hrgtiketmasuk);
+        System.out.println("Jumlah Pendaki ( Maksimal )      : "+jumlahpendaki);
+}
 }
