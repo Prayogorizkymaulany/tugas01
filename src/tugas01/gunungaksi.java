@@ -10,5 +10,7 @@ package tugas01;
  * @author Yoga
  */
 public class gunungaksi {
-    
+    public static void main(String[] args) {
+        
+    }
 }
