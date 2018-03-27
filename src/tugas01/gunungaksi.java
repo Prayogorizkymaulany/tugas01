@@ -20,5 +20,7 @@ public class gunungaksi {
         semeru.jumlahpendaki="1000 Orang";
         
         semeru.infogunung();
+        
+        gunung rinjani = new gunung();
     }
 }
