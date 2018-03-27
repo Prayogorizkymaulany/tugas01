@@ -22,5 +22,24 @@ public class gunungaksi {
         semeru.infogunung();
         
         gunung rinjani = new gunung();
+        rinjani.nama = "Rinjani ";
+        rinjani.ketinggian = "3.805 MDPL";
+        rinjani.jumlahpos = "6 Pos";
+        rinjani.suhu = "10 Celsius";
+        rinjani.hrgtiketmasuk = "76.000";
+        rinjani.jumlahpendaki = "700";
+        
+        rinjani.infogunung();
+        
+        gunung kerinci = new gunung();
+        kerinci.nama = "kerinci";
+        kerinci.ketinggian = "3.805 MDPL";
+        kerinci.jumlahpos = "5 Pos";
+        kerinci.suhu = "12 Celcius";
+        kerinci.hrgtiketmasuk = "40.000";
+        kerinci.jumlahpendaki= "400 ";
+        
+        kerinci.infogunung();
+        
     }
 }
