@@ -12,5 +12,13 @@ package tugas01;
 public class gunungaksi {
     public static void main(String[] args) {
         gunung semeru = new gunung();
+        semeru.nama = "Semeru";
+        semeru.ketinggian = "3.676 MDPL";
+        semeru.jumlahpos="4 Pos";
+        semeru.suhu="14 Celsius";
+        semeru.hrgtiketmasuk="17.500";
+        semeru.jumlahpendaki="1000 Orang";
+               
+
     }
 }
